@@ -3,8 +3,6 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
     height: 100vh;
 }
 
@@ -14,9 +12,9 @@ h1 {
 }
 
 #map {
-    height: 100%; /* Take remaining height */
+    height: 100%; /* Make map take full body height */
     width: 100%;
-    border: 1px solid #ccc;
+    border: 1px solid #ccc; /* Optional: remove if you don't want a border */
     background-color: #f0f0f0; /* Placeholder background */
 }
 
