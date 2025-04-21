@@ -1,0 +1,28 @@
+{
+  "0": {
+    "latlng": {
+      "lat": -89.5,
+      "lng": 112.5
+    },
+    "data": {
+      "name": "z",
+      "plantedDate": "2025-04-21",
+      "logbook": "",
+      "infoLink": "",
+      "pictureRepo": ""
+    }
+  },
+  "1": {
+    "latlng": {
+      "lat": -53.5,
+      "lng": 100.25
+    },
+    "data": {
+      "name": "jhg",
+      "plantedDate": "2025-04-21",
+      "logbook": "",
+      "infoLink": "",
+      "pictureRepo": ""
+    }
+  }
+}
